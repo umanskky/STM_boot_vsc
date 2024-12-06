@@ -100,7 +100,7 @@ int main(void)
 
   uart_transmit_str((uint8_t*)"\n\r================================\n\r");
   uart_transmit_str((uint8_t*)"UART Bootloader\n\r");
-  uart_transmit_str((uint8_t*)"https://github.com/ferenc-nemeth\n\r");
+  uart_transmit_str((uint8_t*)"___________________________\n\r");
   uart_transmit_str((uint8_t*)"================================\n\r\n\r");
 
   if(!HAL_GPIO_ReadPin(BTN_GPIO_Port, BTN_Pin))
