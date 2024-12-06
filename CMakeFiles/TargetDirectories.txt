@@ -1,0 +1,5 @@
+C:/Users/umanskiy/Desktop/Stm_boot_vsc/boot_l4/CMakeFiles/boot_l4.dir
+C:/Users/umanskiy/Desktop/Stm_boot_vsc/boot_l4/CMakeFiles/edit_cache.dir
+C:/Users/umanskiy/Desktop/Stm_boot_vsc/boot_l4/CMakeFiles/rebuild_cache.dir
+C:/Users/umanskiy/Desktop/Stm_boot_vsc/boot_l4/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/umanskiy/Desktop/Stm_boot_vsc/boot_l4/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
